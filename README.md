@@ -17,7 +17,7 @@
 
 
 - 🔭 I’m currently working on:
-  - an Impact Investing Newsletter and Evalutation System to make sustainable investments!
+  - A Starcraft 2 API and data visualizer tool
   - A livestock data management and grazing rotation planning application
 - 📬 If you're interested in any of that let me know at wxv6 at case dot edu
 
