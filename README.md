@@ -17,7 +17,8 @@
 
 
 - 🔭 I’m currently working on:
+  - A <Canvas> Heatmap for high-sample rate data streams
   - A Starcraft 2 API and data visualizer tool
   - A livestock data management and grazing rotation planning application
 
-- 🌱 2020 Tech learning List: Next.js, Elixir/Pheonix/LiveView, Apprun
+- 🌱 2021 Tech learning List: Recoil.js, Apprun, Firebase, Github Actions, FaunaDB, Elixir/Pheonix/LiveView, PostgreSQL
