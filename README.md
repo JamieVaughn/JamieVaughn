@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on:
-  - A <Canvas> Heatmap for high-sample rate data streams
+  - A &lt;canvas&gt; Heatmap for high-sample rate data streams
   - A Starcraft 2 API and data visualizer tool
   - A livestock data management and grazing rotation planning application
 
