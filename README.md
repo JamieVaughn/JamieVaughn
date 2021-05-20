@@ -1,5 +1,7 @@
 # Hi there 👋
 
+# Hi there
+
 - 🔭 I’m currently working on:
   - A &lt;canvas&gt; Heatmap for high-sample rate data streams
   - A Starcraft 2 API and data visualizer tool
