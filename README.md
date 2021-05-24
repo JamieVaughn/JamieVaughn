@@ -26,6 +26,7 @@
   background: #aaa;
   padding: 8px;
   border-radius: 4px;
+  }
 </style>
 <div style="display: flex; justify-content: space-around;">
    <img height="20"src="https://simpleicons.org/icons/html5.svg" 
