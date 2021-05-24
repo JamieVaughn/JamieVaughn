@@ -21,13 +21,7 @@
                   📡
 
 ### Favored Tech
-<object type="image/svg+xml" data="image.svg">
-    <!-- Your fall back here -->
-	<style> img {fill: crimson; background; crimson;}</style>
-    <img height="20"src="https://simpleicons.org/icons/html5.svg" style="background: red" title="HTML5">
-</object>
-
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="royalblue" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<div class="container">
