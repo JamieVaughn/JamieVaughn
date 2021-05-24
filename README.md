@@ -24,60 +24,6 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				@keyframes rotate {
-					0% {
-						transform: rotate(3deg);
-					}
-					100% {
-						transform: rotate(-3deg);
-					}
-				}
-
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					66% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
-
-				.container {
-					display: flex;
-					align-items: center;
-					justify-content: space-around;
-					margin: 0;
-width: 50%;
-					background: linear-gradient(-45deg, #afaafaaa, #faa2abaa, #a5dfd7aa);
-					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
-					color: white;
-					text-align: center;
-padding: 1rem;
-				}
-
-				img {
-					font-size: 20px;
-					text-shadow: 0 1px 0 #efefef;
-					animation: 2s ease 0s normal forwards 1 fadeIn;
-				}
-			</style>
 			<div class="container">
          <img height="20"src="https://simpleicons.org/icons/html5.svg" 
               style="filter: invert(30%) sepia(57%) saturate(2168%) hue-rotate(350deg) brightness(106%) contrast(85%);" title="HTML5">
