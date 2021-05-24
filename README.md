@@ -21,7 +21,6 @@
                   📡
 
 ### Favored Tech
-
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
@@ -64,18 +63,19 @@
 					align-items: center;
 					justify-content: space-around;
 					margin: 0;
-					width: 100%;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+width: 50%;
+					background: linear-gradient(-45deg, #afaafaaa, #faa2abaa, #a5dfd7aa);
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
 					color: white;
 					text-align: center;
+padding: 1rem;
 				}
 
 				img {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
+					animation: 2s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
 			<div class="container">
