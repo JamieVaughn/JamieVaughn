@@ -1,26 +1,14 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on:
-  - A &lt;canvas&gt; Heatmap for high-sample rate data streams
-  - A Starcraft 2 API and data visualizer tool
-  - A livestock data management and grazing rotation planning application
+🔭 I’m currently working on                                           | 🌱 2021 Tech learning List
+:---------------------------------------------------------            | ---------------------------:
+🧮  &lt;canvas&gt; Heatmap for high-sample rate time series            | AssemblyScript/WebAssembly
+〽️  A Starcraft 2 API and data visualizer tool                         | Recoil.js & Redux Toolkit
+🐑  A livestock & grazing rotation management application              | Github Actions
+ _                                                                    | Stripe API
+ _                                                                    | Elixir/Pheonix/LiveView
 
-- 🌱 2021 Tech learning List: AssemblyScript/WebAssembly, Recoil.js & Redux Toolkit, Github Actions, Stripe API, Elixir/Pheonix/LiveView
-
-
-        👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾
-           👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾
-        👾 👾 👾 👾 👾 👾 👾 💥 👾 👾 👾 👾
-           👾 👾 👾 👾 👾         👾 👾 👾 👾
-                         ⚡
-                   
-
-
-                     ⚡
-
-                  📡
-
-### Favored Tech
+## Favored Tech
 <div style="display: flex; justify-content: space-around;">
  	<img height="20"src="https://simpleicons.org/icons/html5.svg" 
 	     style="filter: invert(30%) sepia(57%) saturate(2168%) hue-rotate(350deg) brightness(106%) contrast(85%);" title="HTML5">
@@ -53,3 +41,19 @@
 	<img height="20"src="https://simpleicons.org/icons/visualstudiocode.svg" 
 	     style="filter: invert(32%) sepia(79%) saturate(3326%) hue-rotate(186deg) brightness(91%) contrast(103%);" title="VS Code">
 </div>
+
+### One goal at a time
+
+        👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾
+           👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾
+        👾 👾 👾 👾 👾 👾 👾 💥 👾 👾 👾 👾
+           👾 👾 👾 👾 👾         👾 👾 👾 👾
+                         ⚡
+                   
+
+
+                     ⚡
+
+                  📡
+
+
