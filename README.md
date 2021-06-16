@@ -3,7 +3,7 @@
 🔭 I’m currently working on                                           | 🌱 2021 Tech learning List
 :---------------------------------------------------------            | ---------------------------:
 🧮  &lt;canvas&gt; Heatmap for high-sample rate time series            | AssemblyScript/WebAssembly
-〽️  A Starcraft 2 API and data visualizer tool                         | Recoil.js & Redux Toolkit
+〽️  A Starcraft 2 API and data visualizer tool                         | Jotai, Recoil.js, Redux Toolkit
 🐑  A livestock & grazing rotation management application              | Github Actions
  _                                                                    | Stripe API
  _                                                                    | Elixir/Pheonix/LiveView
