@@ -33,7 +33,7 @@
 	     style="filter: invert(0%) sepia(100%) saturate(0%) hue-rotate(8deg) brightness(96%) contrast(104%);" title="Next.js">
 	<img height="20"src="https://simpleicons.org/icons/firebase.svg" 
 	     style="filter: invert(75%) sepia(69%) saturate(781%) hue-rotate(337deg) brightness(112%) contrast(101%);" title="Firebase">
-	<img height="20"src="https://simpleicons.org/icons/webcomponents-dot-org.svg" 
+	<img height="20"src="https://simpleicons.org/icons/webcomponents-dot-org.svg?sanitize=true" 
 	     style="filter: invert(62%) sepia(32%) saturate(1569%) hue-rotate(165deg) brightness(90%) contrast(97%);" title="Web Components">
 	<img height="20"src="https://simpleicons.org/icons/vite.svg" 
 	     style="filter: invert(39%) sepia(35%) saturate(2623%) hue-rotate(218deg) brightness(101%) contrast(101%);" title="Vite">
