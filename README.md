@@ -2,11 +2,11 @@
 
 🔭 I’m currently working on                                           | 🌱 2021 Tech learning List
 :---------------------------------------------------------            | ---------------------------:
-🧮  &lt;canvas&gt; Heatmap for high-sample rate time series            | AssemblyScript/WebAssembly
-〽️  A Starcraft 2 API and data visualizer tool                         | Jotai, Recoil.js, Redux Toolkit
-🐑  A livestock & grazing rotation management application              | Github Actions
- _                                                                    | Stripe API
- _                                                                    | Elixir/Pheonix/LiveView
+🧮 - &lt;canvas&gt; Heatmap for high-sample rate time series          | AssemblyScript/WebAssembly
+📊 - A Starcraft 2 API and data visualizer tool                       | Jotai, Recoil.js, Redux Toolkit
+📚 - An LMS app for frontend dev classes                              | Github Actions
+🐑 - A livestock & grazing rotation management application.           | Stripe API
+🛡️ - A turn-based, squad strategy game                                | Elixir/Pheonix/LiveView
 
 ## Favored Tech
 <div style="display: flex; justify-content: space-around;">
