@@ -20,21 +20,21 @@
 	    </style>
 	</div>
 	<div style="display: flex; justify-content: space-around;">
-		<img height="20" src="https://simpleicons.org/icons/html5.svg" title="HTML5">
-		<img height="20" src="https://simpleicons.org/icons/css3.svg" title="CSS3">
-		<img height="20" src="https://simpleicons.org/icons/javascript.svg" title="JS">
-		<img height="20" src="https://simpleicons.org/icons/git.svg" title="Git">
-		<img height="20" src="https://simpleicons.org/icons/react.svg" title="React">
-		<img height="20" src="https://simpleicons.org/icons/redux.svg" title="Redux">
-		<img height="20" src="https://simpleicons.org/icons/d3dotjs.svg" title="D3.js">
-		<img height="20" src="https://simpleicons.org/icons/graphql.svg" title="GraphQL">
-		<img height="20" src="https://simpleicons.org/icons/apollographql.svg" title="Apollo GraphQL">
-		<img height="20" src="https://simpleicons.org/icons/nodedotjs.svg" title="Node JS">
-		<img height="20" src="https://simpleicons.org/icons/nextdotjs.svg" title="Next.js">
-		<img height="20" src="https://simpleicons.org/icons/firebase.svg" title="Firebase">
-		<img height="20" src="https://simpleicons.org/icons/webcomponentsdotorg.svg" title="Web Components">
-		<img height="20" src="https://simpleicons.org/icons/vite.svg" title="Vite">
-		<img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg" title="VS Code">
+		<img height="20" src="https://simpleicons.org/icons/html5.svg" title="HTML5" />
+		<img height="20" src="https://simpleicons.org/icons/css3.svg" title="CSS3" />
+		<img height="20" src="https://simpleicons.org/icons/javascript.svg" title="JS" />
+		<img height="20" src="https://simpleicons.org/icons/git.svg" title="Git" />
+		<img height="20" src="https://simpleicons.org/icons/react.svg" title="React" />
+		<img height="20" src="https://simpleicons.org/icons/redux.svg" title="Redux" />
+		<img height="20" src="https://simpleicons.org/icons/d3dotjs.svg" title="D3.js" />
+		<img height="20" src="https://simpleicons.org/icons/graphql.svg" title="GraphQL" />
+		<img height="20" src="https://simpleicons.org/icons/apollographql.svg" title="Apollo GraphQL" />
+		<img height="20" src="https://simpleicons.org/icons/nodedotjs.svg" title="Node JS" />
+		<img height="20" src="https://simpleicons.org/icons/nextdotjs.svg" title="Next.js" />
+		<img height="20" src="https://simpleicons.org/icons/firebase.svg" title="Firebase" />
+		<img height="20" src="https://simpleicons.org/icons/webcomponentsdotorg.svg" title="Web Components" />
+		<img height="20" src="https://simpleicons.org/icons/vite.svg" title="Vite" />
+		<img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg" title="VS Code" />
 	</div>
     </foreignObject>
 </svg>
