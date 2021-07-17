@@ -2,7 +2,7 @@
     <foreignObject width="100%" height="100%">
 	<div xmlns="http://www.w3.org/1999/xhtml">
 	    <style>
-		img[title="HTML"] { filter: invert(30%) sepia(57%) saturate(2168%) hue-rotate(350deg) brightness(106%) contrast(85%); }
+		img[title="HTML5"] { filter: invert(30%) sepia(57%) saturate(2168%) hue-rotate(350deg) brightness(106%) contrast(85%); }
 		img[title="CSS3"] { filter: invert(45%) sepia(77%) saturate(6192%) hue-rotate(189deg) brightness(85%) contrast(84%); }
 		img[title="JS"] { filter: invert(90%) sepia(58%) saturate(1123%) hue-rotate(338deg) brightness(101%) contrast(94%); }
 		img[title="Git"] { filter: invert(50%) sepia(55%) saturate(5556%) hue-rotate(342deg) brightness(96%) contrast(95%); }
@@ -19,7 +19,7 @@
 		img[title="VS Code"] { filter: invert(32%) sepia(79%) saturate(3326%) hue-rotate(186deg) brightness(91%) contrast(103%); }
 	    </style>
 	</div>
-	<div style="display: flex; justify-content: space-around;">
+	<div>
 		<span><img height="20" src="https://simpleicons.org/icons/html5.svg" title="HTML5"/></span>
 		<span><img height="20" src="https://simpleicons.org/icons/css3.svg" title="CSS3"/></span>
 		<span><img height="20" src="https://simpleicons.org/icons/javascript.svg" title="JS"/></span>
