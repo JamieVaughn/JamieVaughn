@@ -9,6 +9,7 @@
 🛡️ - A turn-based, squad strategy game                                | Elixir/Pheonix/LiveView
 
 ## Favored Tech
+<img src="readme.svg" width="0" height="0" alt="Bring in some styles">
 <div style="display: flex; justify-content: space-around;">
  	<img height="20"src="https://simpleicons.org/icons/html5.svg" 
 	     style="filter: invert(30%) sepia(57%) saturate(2168%) hue-rotate(350deg) brightness(106%) contrast(85%);" title="HTML5">
