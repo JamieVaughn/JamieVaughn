@@ -10,7 +10,7 @@
 
 ## Favored Tech
 
-<img src="readme.svg" width="800" height="30" alt="favored tech icons">
+<img src="tech.svg" width="800" height="30" alt="favored tech icons">
 
 ### One goal at a time
 
