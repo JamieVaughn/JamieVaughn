@@ -6,7 +6,7 @@
 📊 - A Starcraft 2 API and data visualizer tool                       | Zustand, Recoil.js, React Query
 🐑 - A livestock & grazing rotation management application.           | Stripe API
 🛡️ - A turn-based, squad strategy game                                | Elixir/Pheonix/LiveView
-  _                                                                   | AssemblyScript/WebAssembly
+  Directed Graph & Map Visualization Dashboard                        | AssemblyScript/WebAssembly
 
 ## Favored Tech
 
