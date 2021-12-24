@@ -2,9 +2,9 @@
 
 🔭 I’m currently working on                                           | 🌱 2021 Tech learning List
 :---------------------------------------------------------            | ---------------------------:
-📚 - An LMS app for frontend dev classes                              | Github Actions                                                               
-📊 - A Starcraft 2 API and data visualizer tool                       | Recoil.js, React Query
-🐑 - A livestock & grazing rotation management application.           | Stripe API
+📚 - An LMS app for frontend dev classes                              | Svelte                                                             
+📊 - A Starcraft 2 API and data visualizer tool                       | Recoil.js, React Query, React Native
+🐑 - A livestock & grazing rotation management application.           | Stripe API, Github Actions
 🛡️ - A turn-based, squad strategy game                                | Elixir/Pheonix/LiveView
 🌐 - Directed Graph & Map Visualization Dashboard                     | AssemblyScript/WebAssembly
 
