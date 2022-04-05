@@ -5,7 +5,7 @@
 📚 - An LMS app for frontend dev classes                              | Svelte & SolidJS                                                            
 📊 - A Starcraft 2 API and data visualizer tool                       | Zustand, React Query, React Native
 🐑 - A livestock & grazing rotation management application.           | Stripe API, Github Actions
-🛡️ - A turn-based, squad strategy game w/ SolidJS                     | Elixir/Pheonix/LiveView
+🛡️ - turn-based strategy game w/ SolidJS & incremental game           | Elixir/Pheonix/LiveView
 🌐 - Directed Graph & Map Visualization Dashboard                     | AssemblyScript/WebAssembly
 
 ## Favored Tech
