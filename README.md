@@ -3,7 +3,7 @@
 🔭 I’m currently working on                                           | 🌱 2022 Tech learning List
 :---------------------------------------------------------            | ---------------------------:
 📚 - An LMS app for frontend dev classes                              | Svelte & SolidJS                                                            
-📊 - A Starcraft 2 API and data visualizer tool                       | Zustand, React Query, React Native
+📊 - A Starcraft 2 build order visualization tool                     | Zustand, React Query, React Native
 🐑 - A livestock & grazing rotation management application.           | Stripe API, Github Actions
 🛡️ - turn-based strategy game w/ SolidJS & incremental game           | Elixir/Pheonix/LiveView
 🌐 - Directed Graph & Map Visualization Dashboard                     | AssemblyScript/WebAssembly
