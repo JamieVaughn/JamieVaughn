@@ -10,7 +10,7 @@
 
 ## Favored Tech
 
-<img src="tech.svg" width="800" height="30" alt="favored tech icons" >
+<img src="tech.svg" width="800" height="30" alt="favored tech icons" title="HTML - CSS - JS - Git - Node - React - D3.js - Redux - Next.js - Typescript">
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamieVaughn&layout=compact" alt="Top Languages" />
