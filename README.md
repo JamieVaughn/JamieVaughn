@@ -6,7 +6,7 @@
 📊 - A Starcraft 2 build order visualization tool                     | React Location, Wouter
 🐑 - A livestock & grazing rotation management application.           | Stripe API
 🛡️ - cooldown-based strategy game w/ SolidJS & incremental game       | Elixir/Pheonix/LiveView
-🌐 - Directed Graph & Map Visualization Dashboard                     | Deno
+🌐 - Directed Graph & Map Visualization Dashboard                     | Bun.js
 
 ## Favored Tech
 
