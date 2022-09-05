@@ -6,7 +6,7 @@
 📊 - A Starcraft 2 build order visualization tool                     | Supabase
 🐑 - A livestock & grazing rotation management application.           | Stripe API/Passwordless Auth
 🛡️ - cooldown-based strategy game w/ SolidJS & incremental game       | Elixir/Pheonix/LiveView
-🌐 - Directed Graph & Map Visualization Dashboard                     | Bun.js
+🌐 - Directed Graph & Map Visualization Dashboard                     | WASM
 
 ## Favored Tech
 
