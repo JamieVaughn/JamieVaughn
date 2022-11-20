@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on                                           | 🌱 2023 Tech learning List
 :---------------------------------------------------------            | ---------------------------:
-📚 - An LMS app for frontend dev classes                              | SolidJS, Solid-Start                                                            
+📚 - An LMS app for frontend dev classes                              | SolidJS, Solid-Start, Astro                                                            
 📊 - A Starcraft 2 build order visualization tool                     | Supabase, Prisma, tRPC
 🐑 - A livestock & grazing rotation management application.           | Stripe API/Passwordless Auth
 🛡️ - cooldown-based strategy game w/ SolidJS & incremental game       | Elixir/Pheonix/LiveView
