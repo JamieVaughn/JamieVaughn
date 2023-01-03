@@ -12,12 +12,14 @@
 
 <img src="tech.svg" width="1200" height="100" alt="favored tech icons" title="HTML - CSS - JS - Git - Node - VSCode - React - D3.js - Redux - Web Components - Firebase - Next.js - Typescript - Vite - GraphQL - Apollo GraphQL - Solid.js - Elixir">
 <br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamieVaughn&layout=compact" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,svelte,git,d3,nodejs,supabase,elixir,wasm&perline=5&theme=light" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamieVaughn&layout=compact" alt="Top Languages" />
-
-
-<br />
-
+<!-- see for more readme badges: https://github.com/rzashakeri/beautify-github-profile -->
 
 ## One goal at a time
 
