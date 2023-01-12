@@ -24,7 +24,7 @@
 ## One goal at a time
 
 <!--
-<img src="https://github-readme-stats.vercel.app/api?username=JamieVaughn&show_icons=true&theme=gotham" alt="Github Stats" align="right" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JamieVaughn&show_icons=true&theme=gotham" alt="Github Stats" align="right" />
 -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamieVaughn&theme=dark" align="left" >
