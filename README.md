@@ -2,20 +2,23 @@
 
 🔭 I’m currently working on                                           | 🌱 2023 Tech learning List
 :---------------------------------------------------------            | ---------------------------:
-📚 - An LMS app for frontend dev classes                              | SolidJS, Qwik, Astro                                                            
-📊 - A Starcraft 2 build order visualization tool                     | Supabase, Prisma, tRPC
-🐑 - A livestock & grazing rotation management application.           | Stripe API/Passwordless Auth
+📚 - An LMS app for frontend dev classes                              | Qwik, Astro                                                         
+📊 - A Starcraft 2 build order visualization tool                     | Supabase, tRPC
+🐑 - A livestock & grazing rotation management application.           | Stripe API
 🛡️ - cooldown-based strategy game w/ SolidJS & incremental game       | Elixir/Pheonix/LiveView
 🌐 - Directed Graph & Map Visualization Dashboard                     | WASM
 
 ## Favored Tech
 
-<img src="tech.svg" width="1200" height="100" alt="favored tech icons" title="HTML - CSS - JS - Git - Node - VSCode - React - D3.js - Redux - Web Components - Firebase - Next.js - Typescript - Vite - GraphQL - Apollo GraphQL - Solid.js - Elixir">
+<!-- <img src="tech.svg" width="1200" height="100" alt="favored tech icons" title="HTML - CSS - JS - Git - Node - VSCode - React - D3.js - Redux - Web Components - Firebase - Next.js - Typescript - Vite - GraphQL - Apollo GraphQL - Solid.js - Elixir"> -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,nodejs,svelte,solidjs,react,d3,vite,supabase,elixir,wasm&theme=light" />
+</p>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamieVaughn&layout=compact" alt="Top Languages" />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,typescript,svelte,git,d3,nodejs,supabase,elixir,wasm&perline=5&theme=light" />
+    <img src="https://skillicons.dev/icons?i=typescript,svelte,d3,nodejs,supabase,elixir&perline=3&theme=light" />
   </a>
 </p>
 
