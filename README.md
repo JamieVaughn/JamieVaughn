@@ -6,7 +6,7 @@
 🛡️ - cooldown-based strategy & real-time multiplayer game             | tRPC
 🐑 - A livestock & grazing rotation management application.           | Qwik, Astro
 📊 - A Starcraft 2 build order visualization tool                     | Elixir/Pheonix/LiveView
-🌐 - Directed Graph & Map Visualization Dashboard                     | WASM
+🌐 - Directed Graph Visualization Dashboard                           | WASM
 
 ## Favored Tech
 
