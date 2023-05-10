@@ -8,6 +8,8 @@
 📊 - A Starcraft 2 build order visualization tool                     | Elixir/Pheonix/LiveView
 🌐 - Directed Graph Visualization Dashboard                           | WASM
 
+[Programming Articles](https://wjv.io/blog/blog)
+
 ## Favored Tech
 
 <!-- <img src="tech.svg" width="1200" height="100" alt="favored tech icons" title="HTML - CSS - JS - Git - Node - VSCode - React - D3.js - Redux - Web Components - Firebase - Next.js - Typescript - Vite - GraphQL - Apollo GraphQL - Solid.js - Elixir"> -->
@@ -36,7 +38,7 @@
         👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾
            👾 👾 👾 👾 👾 👾   💥 👾 👾 👾 👾
         👾 👾 👾 👾 👾 👾             👾 👾
-           👾 👾 👾      ⚡            👾 👾
+           👾 👾 👾      ⚡              👾
                        
 
                    ⚡
