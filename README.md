@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🔭 I’m currently working on                                           | 🌱 2023 Tech learning List
+🔭 I’m currently working on                                           | 🌱 2023 Tech Learning List
 :---------------------------------------------------------            | ---------------------------:
 📚 - An LMS & dev courses app.                                        | Stripe API                                                    
 🛡️ - cooldown-based strategy & real-time multiplayer game             | tRPC, Prisma
