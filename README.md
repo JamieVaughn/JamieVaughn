@@ -2,9 +2,9 @@
 
 🔭 I’m currently working on                                           | 🌱 2023 Tech Learning List
 :---------------------------------------------------------            | ---------------------------:
-📚 - An LMS & dev courses app.                                        | Stripe API                                                    
+📚 - An LMS & dev courses appb                                        | Stripe API                                                    
 🛡️ - cooldown-based strategy & real-time multiplayer game             | tRPC, Prisma
-🐑 - A livestock & grazing rotation management application.           | Qwik
+🐑 - A livestock & grazing rotation management application            | Bun.js
 📊 - A Starcraft 2 build order visualization tool                     | Elixir/Pheonix/LiveView
 🌐 - Directed Graph Visualization Dashboard                           | WASM
 
