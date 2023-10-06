@@ -6,7 +6,7 @@
 🛡️ - cooldown-based strategy & real-time multiplayer game             | tRPC, Prisma
 🐑 - A livestock & grazing rotation management application            | Bun.js
 📊 - A Starcraft 2 build order visualization tool                     | Elixir/Pheonix/LiveView
-🌐 - Directed Graph Visualization Dashboard                           | WASM
+🌐 - Chart Visualization Journal                                      | WASM
 
 [Programming Articles](https://wjv.io/blog/blog)
 
