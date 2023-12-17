@@ -4,7 +4,7 @@
 :---------------------------------------------------------            | ---------------------------:
 📚 - An LMS & dev courses app                                         | Stripe API                                                    
 🛡️ - cooldown-based strategy & real-time multiplayer game             | tRPC, Drizzle ORM
-🐑 - A livestock & grazing rotation management application            | Bun.js
+🐑 - A livestock & grazing rotation management application            | Bun.js, Marko
 📊 - A Starcraft 2 build order visualization tool                     | Elixir/Pheonix/LiveView
 🌐 - Chart Visualization Journal                                      | WASM
 
