@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on                                           | 🌱 2023 Tech Learning List
 :---------------------------------------------------------            | ---------------------------:
-📚 - An LMS & dev courses app                                         | Stripe API                                                    
+📚 - An LMS & dev courses app                                         | Stripe API, Elysia.js                                                    
 🛡️ - cooldown-based strategy & real-time multiplayer game             | tRPC, Drizzle ORM
 🐑 - A livestock & grazing rotation management application            | Bun.js, Marko
 📊 - A Starcraft 2 build order visualization tool                     | Elixir/Pheonix/LiveView
