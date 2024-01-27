@@ -14,7 +14,7 @@
 
 <!-- <img src="tech.svg" width="1200" height="100" alt="favored tech icons" title="HTML - CSS - JS - Git - Node - VSCode - React - D3.js - Redux - Web Components - Firebase - Next.js - Typescript - Vite - GraphQL - Apollo GraphQL - Solid.js - Elixir"> -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,nodejs,svelte,solidjs,react,d3,vite,supabase,elixir,wasm&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,nodejs,astro,svelte,solidjs,react,d3,vite,supabase,elixir,wasm&theme=light" />
 </p>
 <br>
 <p align="center">
