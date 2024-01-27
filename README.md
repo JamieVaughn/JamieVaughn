@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamieVaughn&layout=compact" alt="Top Languages" />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,svelte,d3,nodejs,supabase,elixir&perline=3&theme=light" />
+    <img src="https://skillicons.dev/icons?i=typescript,astro,d3,svelte,nodejs,supabase,elixir,postgres&perline=4&theme=light" />
   </a>
 </p>
 
