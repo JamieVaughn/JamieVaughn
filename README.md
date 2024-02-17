@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🔭 I’m currently working on                                           | 🌱 2023 Tech Learning List
+🔭 I’m currently working on                                           | 🌱 2024 Tech Learning List
 :---------------------------------------------------------            | ---------------------------:
 🌐 - Chart Visualization Journal                                      | Stripe API, Elysia.js                                                    
 🛡️ - cooldown-based strategy & real-time multiplayer game             | tRPC, Drizzle ORM
