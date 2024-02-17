@@ -2,13 +2,15 @@
 
 🔭 I’m currently working on                                           | 🌱 2023 Tech Learning List
 :---------------------------------------------------------            | ---------------------------:
-📚 - An LMS & dev courses app                                         | Stripe API, Elysia.js                                                    
+🌐 - Chart Visualization Journal                                      | Stripe API, Elysia.js                                                    
 🛡️ - cooldown-based strategy & real-time multiplayer game             | tRPC, Drizzle ORM
 🐑 - A livestock & grazing rotation management application            | Bun.js, Marko
 📊 - A Starcraft 2 build order visualization tool                     | Elixir/Pheonix/LiveView
-🌐 - Chart Visualization Journal                                      | 
+📔 - Ebook on Minimum Viable FE Professional                          | Golang
 
-[Programming Articles](https://wjv.io/blog/blog)
+[🗒️ - Programming Articles](https://wjv.io/blog/blog)
+<br/>
+[📚 - LMS for FE dev course](https://monroecc.dev)
 
 ## Favored Tech
 
