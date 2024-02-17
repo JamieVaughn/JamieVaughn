@@ -6,7 +6,7 @@
 🛡️ - cooldown-based strategy & real-time multiplayer game             | tRPC, Drizzle ORM
 🐑 - A livestock & grazing rotation management application            | Bun.js, Marko
 📊 - A Starcraft 2 build order visualization tool                     | Elixir/Pheonix/LiveView
-📔 - Ebook on Minimum Viable FE Professional                          | Golang
+📔 - Ebook on Minimum Viable Professional FE                          | Golang
 
 [🗒️ - Programming Articles](https://wjv.io/blog/blog)
 <br/>
