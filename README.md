@@ -8,7 +8,7 @@
 📊 - A Starcraft 2 build order visualization tool                     | Elixir/Phoenix/LiveView
 📔 - Ebook on Minimum Viable Professional FE                          | Golang
 
-[🗒️ - Programming Articles](https://wjv.io/blog/blog)
+[🗒️ - Programming Articles](https://wjv.io/blog/posts)
 <br/>
 [📚 - LMS for FE dev course](https://monroecc.dev)
 
