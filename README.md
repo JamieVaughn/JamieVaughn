@@ -46,9 +46,3 @@
                     ⚡
 
                    📡
-
-
-<div align="center">
-  <span>Profile Views</span>
-  <img src="https://profile-counter.glitch.me/JamieVaughn/count.svg" width="240px" />
-</div>
