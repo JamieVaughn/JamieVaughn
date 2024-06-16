@@ -16,13 +16,13 @@
 
 <!-- <img src="tech.svg" width="1200" height="100" alt="favored tech icons" title="HTML - CSS - JS - Git - Node - VSCode - React - D3.js - Redux - Web Components - Firebase - Next.js - Typescript - Vite - GraphQL - Apollo GraphQL - Solid.js - Elixir"> -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,nodejs,astro,svelte,solidjs,react,d3,vite,supabase,elixir,wasm&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,react,nodejs,solidjs,astro,svelte,d3,vite,supabase,elixir,wasm&theme=light" />
 </p>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamieVaughn&layout=compact" alt="Top Languages" />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,astro,d3,svelte,nodejs,supabase,elixir,postgres&perline=4&theme=light" />
+    <img src="https://skillicons.dev/icons?i=typescript,astro,d3,solidjs,nodejs,supabase,elixir,postgres&perline=4&theme=light" />
   </a>
 </p>
 
