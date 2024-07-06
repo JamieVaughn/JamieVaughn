@@ -4,7 +4,7 @@
 :---------------------------------------------------------            | ---------------------------:
 🌐 - Chart Visualization Journal                                      | Stripe API, Elysia.js                                                    
 🛡️ - cooldown-based strategy & real-time multiplayer game             | tRPC, Drizzle ORM
-🐑 - A livestock & grazing rotation management application            | Bun.js, Marko
+🐑 - A livestock & rotational grazing application                     | Bun.js, Marko
 📊 - A Starcraft 2 build order visualizer                             | Elixir/Phoenix/LiveView
 📔 - Ebook on Minimum Viable Professional FE                          | Golang
 
