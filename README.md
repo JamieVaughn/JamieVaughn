@@ -1,9 +1,9 @@
 # Hi there 👋
 
-🔭 Current projects                                           | 🌱 2024 Tech Learning List
+🔭 Current projects                                                   | 🌱 2024 Tech Learning List
 :---------------------------------------------------------            | ---------------------------:
 🌐 - Chart Visualization Journal                                      | Stripe API, Elysia.js                                                    
-🛡️ - cooldown-based strategy & real-time multiplayer game             | tRPC, Drizzle ORM
+🛡️ - cooldown-based strategy battle game                              | tRPC, Drizzle ORM
 🐑 - A livestock & rotational grazing application                     | Bun.js, Marko
 📊 - A Starcraft 2 build order visualizer                             | Elixir/Phoenix/LiveView
 📔 - Ebook on Minimum Viable Professional FE                          | Golang
