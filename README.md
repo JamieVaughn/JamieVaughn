@@ -4,9 +4,9 @@
 :---------------------------------------------------------            | ---------------------------:
 🌐 - Chart Visualization Journal                                      | Stripe API, Elysia.js                                                    
 📔 - Ebook on Minimum Viable Professional FE                          | tRPC, Drizzle ORM
-🐑 - A livestock & rotational grazing application                     | Bun.js, Marko
-📊 - A Starcraft 2 build order visualizer                             | Elixir/Phoenix/LiveView
-🛡️ - cooldown-based strategy battle game                              | Golang, Prolog
+🐑 - Livestock & rotational grazing application                       | Bun.js, Marko
+📊 - Starcraft 2 build order visualizer                               | Elixir/Phoenix/LiveView
+🛡️ - Cooldown-based strategy battle game                              | Golang, Prolog
 
 [🗒️ - Programming Articles](https://wjv.io/blog/posts)
 <br/>
