@@ -10,7 +10,7 @@
 
 [🗒️ - Programming Articles](https://wjv.io/blog/posts)
 <br/>
-[📚 - LMS for FE dev course](https://monroecc.dev)
+<!-- [📚 - LMS for FE dev course](https://monroecc.dev) -->
 
 ## Favored Tech
 
