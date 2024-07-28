@@ -1,12 +1,12 @@
 # Hi there 👋
 
-🔭 Current projects                                                   | 🌱 2024 Tech Learning List
-:---------------------------------------------------------            | ---------------------------:
-🌐 - Chart Visualization Journal                                      | Stripe API, Elysia.js                                                    
-📔 - Ebook on Minimum Viable Professional FE                          | tRPC, Drizzle ORM
-🐑 - Livestock & rotational grazing application                       | Bun.js, Marko
-📊 - Starcraft 2 build order visualizer                               | Elixir/Phoenix/LiveView
-🛡️ - Cooldown-based strategy battle game                              | Golang, Prolog, Erlang
+🔭 Current projects                                                 | 🌱 2024 Tech Learning List
+:---------------------------------------------------------          | ---------------------------:
+🌐 Chart Visualization Journal                                      | Stripe API, Elysia.js                                                    
+📔 Ebook on Minimum Viable Professional FE                          | tRPC, Drizzle ORM
+🐑 Livestock & rotational grazing application                       | Bun.js, Marko
+📊 Starcraft 2 build order visualizer                               | Elixir/Phoenix/LiveView
+🛡️ Cooldown-based strategy battle game                              | Golang, Prolog, Erlang
 
 [🗒️ - Programming Articles](https://wjv.io/blog/posts)
 <br/>
