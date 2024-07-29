@@ -6,7 +6,7 @@
 📔 Ebook on Minimum Viable Professional FE                          | tRPC, Drizzle ORM
 🐑 Livestock & rotational grazing application                       | Bun.js, Marko
 📊 Starcraft 2 build order visualizer                               | Elixir/Phoenix/LiveView
-🛡️ Cooldown-based strategy battle game                              | Golang, Prolog, Erlang
+🛡️ Cooldown-based strategy battler                                  | Golang, Prolog, Erlang
 
 [🗒️ - Programming Articles](https://wjv.io/blog/posts)
 <br/>
