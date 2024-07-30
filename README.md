@@ -3,7 +3,7 @@
 🔭 Current projects                                                 | 🌱 2024 Tech Learning List
 :---------------------------------------------------------          | ---------------------------:
 🌐 Chart Visualization Journal                                      | Stripe API, Elysia.js                                                    
-📔 Ebook on Minimum Viable Professional FE                          | tRPC, Drizzle ORM
+📔 Ebook on Minimum Viable Professional FE                          | tRPC, Drizzle
 🐑 Livestock & rotational grazing application                       | Bun.js, Marko
 📊 Starcraft 2 build order visualizer                               | Elixir/Phoenix/LiveView
 🛡️ Cooldown-based strategy battler                                  | Golang, Prolog, Erlang
