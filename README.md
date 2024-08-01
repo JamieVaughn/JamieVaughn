@@ -2,7 +2,7 @@
 
 🔭 Current projects                                                 | 🌱 2024 Tech Learning List
 :---------------------------------------------------------          | ---------------------------:
-🌐 Chart Visualization Journal                                      | Stripe API, Elysia.js                                                    
+🌐 Chart Visualization Journal Site                                 | Stripe API, Elysia.js                                                    
 📔 Ebook on Minimum Viable Professional FE                          | tRPC, Drizzle
 🐑 Livestock & rotational grazing application                       | Marko
 📊 Starcraft 2 build order visualizer                               | Elixir/Phoenix/LiveView
