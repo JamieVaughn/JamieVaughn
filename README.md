@@ -1,5 +1,20 @@
 # Hi there 👋
 
+### My current Projects:
+- Survey Form
+- Tribute Page
+- Technical Documentation Page
+- Product Page
+- Portfolio Page
+
+  #### Link to my portfolio page
+  [portfolio page](https://JamieVaughn.github.io/portfolio)
+
+  
+
+
+
+
 🔭 Current projects                                                | 🌱 2024 Tech Learning List
 :--------------------------------------------------------          | ---------------------------:
 🌐 Chart Visualization Journal Site                                | Stripe API, Elysia.js                                                    
