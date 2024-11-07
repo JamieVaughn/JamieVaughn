@@ -1,23 +1,5 @@
 # Hi there 👋
 
-### My current Projects:
-- Survey Form
-- Tribute Page
-- Technical Documentation Page
-- Product Page
-- Portfolio Page
-
-  #### Link to my portfolio page
-  [portfolio page](https://JamieVaughn.github.io/portfolio)
-<a href="https://JamieVaughn.github.io/portfolio" target="_blank">Portfolio</a>
-  [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 🔭 Current projects                                                | 🌱 2024 Tech Learning List
 :--------------------------------------------------------          | ---------------------------:
 🌐 Chart Visualization Journal Site                                | Stripe API, Elysia.js                                                    
