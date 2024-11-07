@@ -10,7 +10,7 @@
   #### Link to my portfolio page
   [portfolio page](https://JamieVaughn.github.io/portfolio)
 
-  
+  [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 
 
