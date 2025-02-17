@@ -5,8 +5,8 @@
 🌐 Chart Visualization Journal Site                                | Stripe API, Elysia.js                                                    
 📔 Ebook on Minimum Viable Professional FE                         | tRPC, Drizzle
 🐑 Livestock & rotational grazing application                      | Marko
-📊 Starcraft 2 build order visualizer                              | Elixir/Phoenix/LiveView
-🛡️ Cooldown-based strategy battler                                 | Golang, Prolog, Erlang
+📊 Starcraft 2 build order visualizer                              | Elixir/Phoenix/LiveView, Proglog
+🛡️ Cooldown-based strategy battler                                 | Tauri
 
 [🗒️ - Programming Articles](https://wjv.io/blog/posts)
 <br/>
