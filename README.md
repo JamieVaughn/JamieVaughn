@@ -2,11 +2,11 @@
 
 🔭 Current projects                                                | 🌱 2024 Tech Learning List
 :--------------------------------------------------------          | ---------------------------:
-🌐 Chart Visualization Journal Site                                | Stripe API, Elysia.js                                                    
+🌐 Chart Visualization Journal Site                                | Passkeys, Stripe API                                            
 📔 Ebook on Minimum Viable Professional FE                         | tRPC, Drizzle
-🐑 Livestock & rotational grazing application                      | Marko
-📊 Starcraft 2 build order visualizer                              | Elixir/Phoenix/LiveView, Proglog
-🛡️ Cooldown-based strategy battler                                 | Tauri
+🐑 Livestock & rotational grazing application                      | Prolog
+📊 Starcraft 2 build order visualizer                              | Elixir/Phoenix/LiveView
+🛡️ Cooldown-based strategy battler                                 | Tauri, Marko
 
 [🗒️ - Programming Articles](https://wjv.io/blog/posts)
 <br/>
