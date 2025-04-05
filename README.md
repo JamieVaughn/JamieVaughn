@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🔭 Current projects                                                | 🌱 2024 Tech Learning List
+🔭 Current projects                                                | 🌱 2025 Tech Learning List
 :--------------------------------------------------------          | ---------------------------:
 🌐 Chart Visualization Journal Site                                | Passkeys, Stripe API                                            
 📔 Ebook on Minimum Viable Professional FE                         | tRPC, Drizzle
