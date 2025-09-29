@@ -8,7 +8,7 @@
 📊 Starcraft 2 build order visualizer                              | Elixir/Phoenix/LiveView
 🛡️ Cooldown-based strategy battler                                 | Tauri, Marko
 
-[🗒️ - Programming Articles](https://wjv.io/blog/posts)
+[🗒️ - Programming Articles](https://jamievaughn.github.io/blog/posts)
 <br/>
 <!-- [📚 - LMS for FE dev course](https://monroecc.dev) -->
 
